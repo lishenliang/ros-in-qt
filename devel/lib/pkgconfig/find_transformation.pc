@@ -1,0 +1,8 @@
+prefix=/home/beihai/ros_in_qt/devel
+
+Name: find_transformation
+Description: Description of find_transformation
+Version: 0.1.0
+Cflags: -I/home/beihai/ros_in_qt/src/find_transformation/include
+Libs: -L${prefix}/lib -lfind_transformation
+Requires: roscpp rospy std_msgs nav_msgs

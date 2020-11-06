@@ -1,0 +1,2 @@
+find_transformation
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/beihai/ros_in_qt/devel -DCMAKE_INSTALL_PREFIX=/home/beihai/ros_in_qt/install
